@@ -54,7 +54,7 @@ export const DashboardPageContent = () => {
         {categories.map((category) => (
           <li
             key={category.id}
-            className="relative group z-10 transition-all duration-200 hover:-translate-y-0.5"
+            className="relative group z-10 transition-all duration-200"
           >
             <div className="absolute z-0 inset-px rounded-lg bg-white" />
             <div className="pointer-events-none z-0 absolute inset-px rounded-lg shadows-sm transition-all duration-300 group-hover:shadow-md ring-1 ring-black/5" />
