@@ -1,0 +1,13 @@
+{
+  "BRAND": "SaaSBro",
+  "BRAND_FIRST_PART": "SaaS",
+  "BRAND_LAST_PART": "Bro",
+  "COMPANY": "SaaSBro Inc.",
+  "SITE": "https://saasbro.com",
+  "TAGLINE": "Your Catchy Tagline",
+  "DEFAULT_LOCALE": "en-US",
+  "SUPPORTED_LANGUAGES": ["en-US", "es-ES", "fr-FR"],
+  "COPYRIGHT_START_YEAR": 2024,
+  "SUPPORT_EMAIL": "support@saasbro.com",
+  "TWITTER_HANDLE": "@saasbro"
+}
